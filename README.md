@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Angular and numerous frontend languages.**
+- 🌱 I’m currently learning **Angular and numerous frontend language.**
 
 - 👯 I’m looking to collaborate on **any kind of project that will enhance my skills.**
 
